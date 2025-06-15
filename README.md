@@ -113,7 +113,7 @@ scikit-learn, xgboost
 Data Analytics Student @ Douglas College  
 📍 Vancouver, Canada  
 📧 kajalsingh.1303@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/kajalsingh3010)
+🔗 [kajalsingh3010](https://www.linkedin.com/in/kajalsingh3010)
 
 ## 📝 License
 
