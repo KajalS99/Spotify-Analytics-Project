@@ -117,9 +117,14 @@ Spotify-Analytics-Project/
 │   └── 3_Modeling_Code.ipynb
 ├── scripts/
 │   └── cleaning_script.py
+├── images/
+│   ├── Correlation HeatMap.png
+│   ├── ROC Curve Comparison.png
+│   └── ... (more visuals)
 ├── requirements.txt
 ├── LICENSE
 └── README.md
+
 
 ## 🛠️ Requirements
 
