@@ -46,7 +46,23 @@ EDA was conducted using Seaborn, Matplotlib, and Plotly.
 - Most common genres and popular artists
 - Trends in duration, energy, danceability, and more
 
-📈 Optional visualizations can be added to the `images/` folder.
+## 📊 Visual Insights
+
+### 🔸 Correlation Heatmap
+
+![Correlation Heatmap](images/Correlation%20HeatMap.png)
+
+### 🔸 Feature Correlation Overview
+
+![Correlation Matrix](images/Correlation.png)
+
+### 🔸 Boxplots for Feature Distribution
+
+![Boxplots](images/Boxplots.png)
+
+### 🔸 Track Popularity Distribution
+
+![Popularity Distribution](images/Distribution%20on%20track%20popularity.png)
 
 ---
 
@@ -61,6 +77,25 @@ We performed binary classification where:
 - Random Forest Classifier
 - XGBoost Classifier
 - Dummy Classifier (baseline)
+
+## 🧪 Model Evaluation & Performance
+
+### 🔸 Confusion Matrices
+
+![Confusion Matrices](images/Confusion%20Matrices.png)
+
+### 🔸 Model Accuracy Comparison
+
+![Model Performance](images/Model%20Performance.png)
+
+### 🔸 ROC Curve Comparison
+
+![ROC Curves](images/ROC%20Curve%20Comparison.png)
+
+### 🔸 Precision, Recall, and AUC Score Summary
+
+![Precision, Recall, AUC](images/precision,%20Recall,%20AUC.png)
+
 
 ### 🧪 Evaluation Metrics:
 - Accuracy Score
